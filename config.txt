@@ -1,1 +1,4 @@
+
 Configuracion inicial
+Configuracion en rama funcionalidad
+Resuelto conficlto de ramas
