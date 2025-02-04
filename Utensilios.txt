@@ -1,4 +1,7 @@
 Tenedor
 Plato
 Cuchara
+Cuchillo
+Servilletas
 Espaguetis
+
